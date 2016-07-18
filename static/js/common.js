@@ -76,7 +76,7 @@
 /******/ 			script.charset = 'utf-8';
 /******/ 			script.async = true;
 /******/
-/******/ 			script.src = __webpack_require__.p + "static/js/" + chunkId + "." + {"0":"f172f15f801395c0392a","2":"5d6427c25e2089e92d76","3":"82c1f8bcd53d678154c4","4":"c39e78bc4382435f7d7a","5":"0bddb51a8e3fa739d48c","6":"f96d0d0df09b9e3454b3","7":"306a428c875f973d1cb1","8":"851b5f5a30925ea26f2a"}[chunkId] + ".js";
+/******/ 			script.src = __webpack_require__.p + "vuecnode/static/js/" + chunkId + "." + {"0":"f172f15f801395c0392a","2":"5d6427c25e2089e92d76","3":"82c1f8bcd53d678154c4","4":"c39e78bc4382435f7d7a","5":"0bddb51a8e3fa739d48c","6":"f96d0d0df09b9e3454b3","7":"306a428c875f973d1cb1","8":"2f3e9d13da56e4f7e721"}[chunkId] + ".js";
 /******/ 			head.appendChild(script);
 /******/ 		}
 /******/ 	};
